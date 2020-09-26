@@ -14,4 +14,4 @@
 - By collecting the millions of height data points, the API gives the 3 Dimentional View of under water objects.
 - For detecting object type, the 3d view converted into 2D image then passing into CNN model which is already trained model over 100 scanned under water object 2D images.
 
-##project 3: 
+## project 3: 
