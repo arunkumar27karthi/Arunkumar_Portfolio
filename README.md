@@ -18,6 +18,9 @@
 - To avoid my Boredom in this lockdown i used to create visitors welcoming bot for my home using face recognition python library, which is audio based bot that recognize the pretrained faces of our visiters and it used to welcome them with their names.
 - If any untrained faces detected, it consider the name as new visitor and it captures that face to ask the face name later to train that face into the recognition model.
 - Next time the same faces detected, it welcome them with the name,as what we had denoted already.
-- This record the each visitors arrival time and departure time also.
+- This record the each visitors arrival time and departure time also using MySQL database.
+- This system integrated into an API using Django for easy access.
 - This system can also be useful for office attendance system with some improvements.
 
+## project 4:
+- 
