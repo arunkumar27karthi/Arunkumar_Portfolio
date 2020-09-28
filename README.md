@@ -14,4 +14,10 @@
 - By collecting the millions of height data points, the API gives the 3 Dimentional View of under water objects.
 - For detecting object type, the 3d view converted into 2D image then passing into CNN model which is already trained model over 100 scanned under water object 2D images.
 
-## project 3: 
+## project 3: Visitors Welcoming Bot At Home with Multiple face Recognition: Project Overview
+- To avoid my Boredom in this lockdown i used to create visitors welcoming bot for my home using face recognition python library, which is audio based bot that recognize the pretrained faces of our visiters and it used to welcome them with their names.
+- If any untrained faces detected, it consider the name as new visitor and it captures that face to ask the face name later to train that face into the recognition model.
+- Next time the same faces detected, it welcome them with the name,as what we had denoted already.
+- This record the each visitors arrival time and departure time also.
+- This system can also be useful for office attendance system with some improvements.
+
