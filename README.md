@@ -22,5 +22,23 @@
 - This system integrated into an API using Django for easy access.
 - This system can also be useful for office attendance system with some improvements.
 
-## project 4:
-- 
+## project 4: Mail prediction project (spam vs ham):
+- Created an tool that predicts whether the given input mail is spam or ham.
+- To achieve this 'Natural Language Processing' and 'support vector machine' method used.
+- This model is trained over 6000 of ham and spam mails with accuracy score 97.5%.
+
+## project 5: 
+
+
+# WEB DESIGNING PROJECTS: 
+## project 5: Replica Of GitHub website's Home Page:
+- Done the Assignment of 'pirple.com' 'front end web developement' course, which is 'create the replica of any one popular website'. I choose GitHub website.
+- I created the replica of Home page of the Github website as it is.
+
+## project 6: Travel website with recommendation system:
+- For practice, Created an dynamic travel website which is used to book the tourism bus for famous turist places.
+- The Frame Work done by Django with Html and css. jinja templating language also used.
+- For Data handelling and storage purpose MySQL database is used.
+- This website containing user registeration process.
+
+
