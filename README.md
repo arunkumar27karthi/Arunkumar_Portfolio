@@ -44,4 +44,4 @@
 - This website containing user registeration process.
 
 # Certifications:
-![](Certifications/artificial_inteligence_certificate_webinar_pantech.jpg =250x250)
+![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg)
