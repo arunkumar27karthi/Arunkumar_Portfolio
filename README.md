@@ -45,4 +45,4 @@
 
 # Certifications:
 ![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg)
-<img src="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg" width="200" height="400" />
+<img src="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg" width="500" height="400" />
