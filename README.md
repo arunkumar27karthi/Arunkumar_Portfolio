@@ -45,17 +45,29 @@
 
 # Certifications:
 ![](/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg)
+
 ![](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
+
 ![](/Certification/python%20for%20datascience%20and%20machine%20learning.jpg)
+
 ![](/Certification/tcs_ion_communication_skills_certiications-1.jpg)
+
 ![](/Certification/texas_application_of_python-1.jpg)
+
 ![](/Certification/artificial_inteligence_certificate_webinar_pantech.jpg)
+
 ![](/Certification/face_recognition_ai-1.jpg)
+
 ![](/Certification/Java_Certificate-1.jpg)
+
 ![](/Certification/MYSQL_CERT_ARUN_UDEMY-1.jpg)
+
 ![](/Certification/ExpEyes_training-1.jpg)
+
 ![](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg)
+
 ![](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg)
+
 ![](/Certification/texas_computer_networks-1.jpg)
 
 
