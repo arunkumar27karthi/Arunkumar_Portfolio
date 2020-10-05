@@ -1,4 +1,5 @@
-
+# Certifications:
+[hello](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg)
 ## Project 1: Zero Defect Manufacturing At Suppliers (Smart Six Sigma): Project Overview
 - Created a tool that identifies the defective products (ball bearings) in industries using convolutional neural network trained model through the camera vision instead of eye vision. 
 - Train the model over 1000 product train images which is containing both defective and non defective product images in equal percentage.(50% each)
