@@ -44,4 +44,4 @@
 - This website containing user registeration process.
 
 # Certifications:
-![](Certifications/artificial_inteligence_certificate_webinar_pantech.jpg | 250x250)
+![](Certifications/artificial_inteligence_certificate_webinar_pantech.jpg=250x250)
