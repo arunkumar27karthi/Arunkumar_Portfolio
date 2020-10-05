@@ -44,5 +44,5 @@
 - This website containing user registeration process.
 
 # Certifications:
-![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg | width=100)
-![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/PYTHON-DATA%20STRUCTURES-MACHINE%20LEARNING.pdf)
+![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
