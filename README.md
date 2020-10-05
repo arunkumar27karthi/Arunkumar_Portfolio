@@ -49,11 +49,3 @@
 <img src="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg" width="500" height="400" />
 <img src="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/python%20for%20datascience%20and%20machine%20learning.jpg" width="500" height="400" />
 <img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-<img src="" width="500" height="400" />
-
