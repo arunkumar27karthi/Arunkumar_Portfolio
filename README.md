@@ -45,3 +45,4 @@
 
 # Certifications:
 ![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg =250x250)
+![](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certifications/PYTHON-DATA%20STRUCTURES-MACHINE%20LEARNING.pdf)
