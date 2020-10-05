@@ -46,3 +46,4 @@
 # Certifications:
 ![](/Certifications/artificial_inteligence_certificate_webinar_pantech.jpg)
 ![](/Certifications/python%20for%20datascience%20and%20machine%20learning.jpg)
+![](/Certifications/python for datascience and machine learning.jpg)
