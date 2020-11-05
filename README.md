@@ -38,7 +38,8 @@
 - Submission details page consist User Id, submission Time, Problom Name, Result, Memory And Compile time.
 - It also consists of sorting and filtering access.
 ### USED LANGUAGES:
-- Html, CSS, Java Script, Vue.js
+- Html, CSS, Java Script, Vue.js, gRPC basics
+
 ## project 7: Replica Of GitHub website's Home Page:
 - Done the Assignment of 'pirple.com' 'front end web developement' course, which is 'create the replica of any one popular website'. I choose GitHub website.
 - I created the replica of Home page of the Github website as it is.
