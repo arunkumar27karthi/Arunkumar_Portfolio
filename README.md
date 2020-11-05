@@ -32,12 +32,18 @@
 - trained over 600 datas of benign and melignent cancer attributes. undependent variables are such as radius, texture, perimeter, area, smoothness, etc.
 - target variables are Benign as 1 and Melignent as 0.
 
-# WEB DESIGNING PROJECTS: 
-## project 6: Replica Of GitHub website's Home Page:
+# WEB DESIGNING PROJECTS:
+## project 6: Coding Beast Website:
+- Created the coding contest submission details page along with code mirror page.
+- Submission details page consist User Id, submission Time, Problom Name, Result, Memory And Compile time.
+- It also consists of sorting and filtering access.
+### USED LANGUAGES:
+- Html, CSS, Java Script, Vue.js
+## project 7: Replica Of GitHub website's Home Page:
 - Done the Assignment of 'pirple.com' 'front end web developement' course, which is 'create the replica of any one popular website'. I choose GitHub website.
 - I created the replica of Home page of the Github website as it is.
 
-## project 7: Travel website with recommendation system:
+## project 8: Travel website with recommendation system:
 - For practice, Created an dynamic travel website which is used to book the tourism bus for famous turist places.
 - The Frame Work done by Django with Html and css. jinja templating language also used.
 - For Data handelling and storage purpose MySQL database is used.
