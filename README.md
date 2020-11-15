@@ -67,7 +67,6 @@ cloud computing webinar                     | [click here...](/Certification/Sha
 ExpEyes Training                            | [click here...](/Certification/ExpEyes_training-1.jpg)
 National level technical Quiz on vlsi       | [click here...](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg)
 Texas Computer Networks test                | [click here...](/Certification/texas_computer_networks-1.jpg)
---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------
 
 
 
