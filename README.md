@@ -51,19 +51,11 @@
 - This website containing user registeration process.
 
 # Certifications:
-<ul><li display="inline-block">
+<ul><li style="display:inline;">
 <img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" alt="alt text" width="50%" height="50%"></img>
-</li><li>
+</li><li style="display:inline;">
 <img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg" alt="alt text" width="50%" height="50%"></img>
 </li></ul>
-<style>
-ul{
-  display: block;
-  }
- li{
-  display: inline-block;
-  }
-</style>
 
 <img src="/Certification/tcs_ion_communication_skills_certiications-1.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/texas_application_of_python-1.jpg" alt="alt text" width="50%" height="50%"></img>
