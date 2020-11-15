@@ -52,21 +52,22 @@
 
 # Certifications:
 Certificate                                 | link
---------------------------------------------|----------------------------------------------------------------
-Front End Web Developement                  | [click here...] (Certification/front%20end%20web%20developement%20html%20css-1.jpg)
-PYTHON DATA STRUCTURES And MACHINE LEARNING | [click here...] (/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg)
-Java_Certificate                            | [click here...] (/Certification/Java_Certificate-1.jpg)
-Python For DataScience IBM                  | [click here...] (/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
-Python For DataScience And MachineLearning  | [click here...] (/Certification/python%20for%20datascience%20and%20machine%20learning.jpg)
-tcs_ion communication skills certifications | [click here...] (/Certification/tcs_ion_communication_skills_certiications-1.jpg)
-Texas application of python                 | [click here...] (/Certification/texas_application_of_python-1.jpg)
+--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------
+Front End Web Developement                  | [click here...](/Certification/front%20end%20web%20developement%20html%20css-1.jpg)
+PYTHON DATA STRUCTURES And MACHINE LEARNING | [click here...](/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg)
+Java_Certificate                            | [click here...](/Certification/Java_Certificate-1.jpg)
+Python For DataScience IBM                  | [click here...](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
+Python For DataScience And MachineLearning  | [click here...](/Certification/python%20for%20datascience%20and%20machine%20learning.jpg)
+tcs_ion communication skills certifications | [click here...](/Certification/tcs_ion_communication_skills_certiications-1.jpg)
+Texas application of python                 | [click here...](/Certification/texas_application_of_python-1.jpg)
 artificial_inteligence_certificate          | [click here...](/Certification/artificial_inteligence_certificate_webinar_pantech.jpg)
 face_recognition_ai                         | [click here...](/Certification/face_recognition_ai-1.jpg)
 MySQL Cerification                          | [click here...](/Certification/MYSQL_CERT_ARUN_UDEMY-1.jpg)
 cloud computing webinar                     | [click here...](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg)
 ExpEyes Training                            | [click here...](/Certification/ExpEyes_training-1.jpg)
-National level technical Quiz on vlsi       | [click here...] (/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg)
-Texas Computer Networks test                | [click here...] (/Certification/texas_computer_networks-1.jpg)
+National level technical Quiz on vlsi       | [click here...](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg)
+Texas Computer Networks test                | [click here...](/Certification/texas_computer_networks-1.jpg)
+--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------
 
 
 
