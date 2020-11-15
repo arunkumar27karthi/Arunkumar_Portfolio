@@ -52,7 +52,7 @@
 
 # Certifications:
 
-![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width= 50 )
+![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg =200x200 )
 ![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width=100)
 
 
