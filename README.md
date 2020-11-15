@@ -59,7 +59,7 @@ Content in the first column | Content in the second column
 ![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width="50%" ) | ![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width="50%")
 
 
-<img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" width="50%" height="50%" />
+<img src="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg" width="50%" height="50%" />
 
 <img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg"  width="50%" height="50%" />
 
