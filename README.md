@@ -51,9 +51,9 @@
 - This website containing user registeration process.
 
 # Certifications:
-<ul style.display="inline-block"><li>
+<ul><li display="inline-block">
 <img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" alt="alt text" width="50%" height="50%"></img>
-</li><li>
+</li><li display="inline-block">
 <img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg" alt="alt text" width="50%" height="50%"></img>
 </li></ul>
 
