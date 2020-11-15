@@ -51,7 +51,7 @@
 - This website containing user registeration process.
 
 # Certifications:
-http://github.com - automatic![Alt Text](/Certification/Java_Certificate-1.jpg)
+[Java_Certificate](/Certification/Java_Certificate-1.jpg)
 ![Alt Text](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
 ![Alt Text](/Certification/tcs_ion_communication_skills_certiications-1.jpg)
 ![Alt Text](/Certification/texas_application_of_python-1.jpg)
