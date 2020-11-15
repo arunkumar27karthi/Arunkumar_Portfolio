@@ -52,10 +52,6 @@
 
 # Certifications:
 
-![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg =200x200 )
-![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width=100)
-
-
 ![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg)
 <img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg"  width="50%" height="50%" />
 
