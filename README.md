@@ -55,7 +55,7 @@
 
 ![](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
 
-![](/Certification/python%20for%20datascience%20and%20machine%20learning.jpg)
+![](/Certification/python%20for%20datascience%20and%20machine%20learning.jpg) ![](/Certification/front%20end%20web%20developement%20html%20css-1.jpg)
 
 ![](/Certification/tcs_ion_communication_skills_certiications-1.jpg)
 
@@ -77,6 +77,6 @@
 
 ![](/Certification/texas_computer_networks-1.jpg)
 
-![](/Certification/front%20end%20web%20developement%20html%20css-1.jpg)
+
 
 
