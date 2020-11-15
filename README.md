@@ -56,7 +56,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-![Alt Text](/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg | width="50%" ) | ![Alt Text](/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg | width="50%")
+![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width="50%" ) | ![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg | width="50%")
 
 
 <img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" width="50%" height="50%" />
