@@ -54,20 +54,20 @@
 
 <img align="right" src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" alt="alt text" width="50%" height="50%"></img>
 
-<img padding-top="1000px" src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg" alt="alt text" width="50%" height="50%"></img>
+<img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg" alt="alt text" width="50%" height="50%"></img>
 
 
-<img src="/Certification/tcs_ion_communication_skills_certiications-1.jpg" alt="alt text" width="50%" height="50%"></img>
+<img align="right" src="/Certification/tcs_ion_communication_skills_certiications-1.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/texas_application_of_python-1.jpg" alt="alt text" width="50%" height="50%"></img>
 
-<img src="/Certification/artificial_inteligence_certificate_webinar_pantech.jpg" alt="alt text" width="50%" height="50%"></img>
+<img align="right" src="/Certification/artificial_inteligence_certificate_webinar_pantech.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/face_recognition_ai-1.jpg" alt="alt text" width="50%" height="50%"></img>
 
-<img src="/Certification/Java_Certificate-1.jpg" alt="alt text" width="50%" height="50%"></img>
+<img align="right" src="/Certification/Java_Certificate-1.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/MYSQL_CERT_ARUN_UDEMY-1.jpg" alt="alt text" width="50%" height="50%"></img>
 
-<img src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
+<img align="right" src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/ExpEyes_training-1.jpg" alt="alt text" width="50%" height="50%"></img>
 
-<img src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
+<img align="right" src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
 <img src="/Certification/texas_computer_networks-1.jpg" alt="alt text" width="50%" height="50%"></img>
