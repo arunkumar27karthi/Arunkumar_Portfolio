@@ -51,22 +51,15 @@
 - This website containing user registeration process.
 
 # Certifications:
+![Alt Text](/Certification/Java_Certificate-1.jpg)
+![Alt Text](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
+![Alt Text](/Certification/tcs_ion_communication_skills_certiications-1.jpg)
+![Alt Text](/Certification/texas_application_of_python-1.jpg)
+![Alt Text](/Certification/artificial_inteligence_certificate_webinar_pantech.jpg)
+![Alt Text](/Certification/face_recognition_ai-1.jpg)
+![Alt Text](/Certification/MYSQL_CERT_ARUN_UDEMY-1.jpg)
+![Alt Text](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg)
+![Alt Text](/Certification/ExpEyes_training-1.jpg)
+![Alt Text](/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg)
+![Alt Text](/Certification/texas_computer_networks-1.jpg)
 
-![Alt Text](https://github.com/arunkumar27karthi/Arunkumar_Portfolio/blob/master/Certification/Java_Certificate-1.jpg)
-<img src="/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg"  width="50%" height="50%" />
-
-
-<img align="right" src="/Certification/tcs_ion_communication_skills_certiications-1.jpg" alt="alt text" width="50%" height="50%"></img>
-<img src="/Certification/texas_application_of_python-1.jpg" alt="alt text" width="50%" height="50%"></img>
-
-<img align="right" src="/Certification/artificial_inteligence_certificate_webinar_pantech.jpg" alt="alt text" width="50%" height="50%"></img>
-<img src="/Certification/face_recognition_ai-1.jpg" alt="alt text" width="50%" height="50%"></img>
-
-<img align="right" src="/Certification/Java_Certificate-1.jpg" alt="alt text" width="50%" height="50%"></img>
-<img src="/Certification/MYSQL_CERT_ARUN_UDEMY-1.jpg" alt="alt text" width="50%" height="50%"></img>
-
-<img align="right" src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_Certificate%20Registration%20an..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
-<img src="/Certification/ExpEyes_training-1.jpg" alt="alt text" width="50%" height="50%"></img>
-
-<img align="right" src="/Certification/Share%20Certificate%20for%20Arunkumar%20E%20for%20_National%20Level%20Technical%20Qu..._-1.jpg" alt="alt text" width="50%" height="50%"></img>
-<img src="/Certification/texas_computer_networks-1.jpg" alt="alt text" width="50%" height="50%"></img>
