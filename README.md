@@ -37,7 +37,7 @@
 - Created the coding contest submission details page along with code mirror page.
 - Submission details page consist User Id, submission Time, Problom Name, Result, Memory And Compile time.
 - It also consists of sorting and filtering access.
-### USED LANGUAGES:
+##### USED LANGUAGES:
 - Html, CSS, Java Script, Vue.js, gRPC basics
 
 ## project 7: Replica Of GitHub website's Home Page:
