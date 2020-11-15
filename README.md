@@ -52,7 +52,7 @@
 
 # Certifications:
 ![](/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg)
-<img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" alt="alt text" width="400" height="200"></img>
+<img src="/Certification/PYTHON-DATA_STRUCTURES-MACHINE_LEARNING-Cert.jpg" alt="alt text" width="800" height="400"></img>
 
 ![](/Certification/python101_for_datascience_IBM_cognitiveClass_Cert.jpg)
 
