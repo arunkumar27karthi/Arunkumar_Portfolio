@@ -33,8 +33,8 @@
 
 # WEB DESIGNING PROJECTS:
 ## project 6: Coding Beast Website:
-- Created the coding contest submission details page along with code mirror page.
-- Submission details page consist User Id, submission Time, Problom Name, Result, Memory And Compile time.
+- Created the coding contest submission details page along with the code mirror page.
+- Submission details page consists of User Id, submission Time, Problem Name, Result, Memory, And Compile time.
 - It also consists of sorting and filtering access.
 #### USED LANGUAGES:
 - Html, CSS, Java Script, Vue.js, gRPC basics
