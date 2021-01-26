@@ -1,0 +1,111 @@
+.body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.body {
+    background-color: rgb(255, 255, 255);
+}
+
+.header>h1 {
+    text-align: center;
+    color: white;
+}
+
+.game_section {
+    background-attachment: fixed;
+    color: aliceblue;
+}
+
+button {
+    width: 75px;
+    height: 25px;
+}
+
+#div1,
+#div4,
+#div7,
+#div2,
+#div5,
+#div8,
+#div3,
+#div6,
+#div9 {
+    border: 2px solid rgb(98, 247, 247);
+    height: 130px;
+    width: 130px;
+    float: left;
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+}
+
+#div1,
+#div4,
+#div7 {
+    clear: left;
+}
+
+.point_section {
+    display: block;
+    width: 100%;
+    font-size: 20px;
+}
+
+.point_section>div {
+    display: inline-block;
+    padding: 0px 50px;
+}
+
+.result_view {
+    width: 500px;
+}
+
+.result_view {
+    text-align: center;
+}
+
+.game_area {
+    height: 400px;
+    width: auto;
+}
+
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+body {
+    background-image: url("https://media.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif");
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.game_box {
+    margin: 0px 400px 0px 450px;
+}
+
+#div1,
+#div2,
+#div3 {
+    border-top: none;
+}
+
+#div1,
+#div4,
+#div7 {
+    border-left: none;
+}
+
+#div7,
+#div8,
+#div9 {
+    border-bottom: none;
+}
+
+#div3,
+#div6,
+#div9 {
+    border-right: none;
+}

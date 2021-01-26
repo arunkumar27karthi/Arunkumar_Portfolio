@@ -1,0 +1,154 @@
+<!Doctype html>
+<html>
+<head>
+    <title>SUDOKU GAME</title>
+    <link rel="stylesheet" href="" />
+    <link rel="stylesheet" href="tic_tac_toe_style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    
+    <script type="text/javascript">
+        var count =1;
+        var point_X = 0;
+        var point_O = 0;
+        function fill(control) {
+            
+            if(count<=9){
+                if (getValue(control.id) != "X" && getValue(control.id) != "O" && !checkWin()){   
+                    if (count%2 != 0) {
+
+                        document.getElementById(control.id).innerHTML = "X";
+                    } else{
+                        document.getElementById(control.id).innerHTML = "O";
+                    }; 
+                    if(count == 9){
+                        if (checkWin() == false){
+                            document.getElementById('result').innerHTML="Match Draw";
+                        }
+                    }
+                    count++;
+                    if (checkWin() == "X"){
+                        point_X = point_X + 1;
+                        document.getElementById("result").innerHTML= "X is the winner";
+                        document.getElementById("X_point").innerHTML= point_X;
+                        
+                    }else if (checkWin() == "O"){
+                        point_O = point_O + 1;
+                        document.getElementById("result").innerHTML= "O is thewinner";
+                        document.getElementById("O_point").innerHTML= point_O;
+                        
+                    };
+                }   
+            } 
+            
+            
+        };
+
+        function checkWin(){
+            if(checkCondition("div1","div2","div3") ){
+
+                changeToGreen("#div1","#div2","#div3")
+                return (getValue("div1"));
+
+            }else if (checkCondition("div1","div5","div9") ){
+                changeToGreen("#div1","#div5","#div9")
+                return (getValue("div1"));
+
+            }else if ( checkCondition("div3","div5","div7") ){
+                changeToGreen("#div3","#div5","#div7")
+                return (getValue("div3"));
+
+            }else if (checkCondition("div1","div4","div7") ){
+                changeToGreen("#div1","#div4","#div7")
+                return (getValue("div1"));
+
+            }else if ( checkCondition("div6","div4","div5") ){
+                changeToGreen("#div6","#div4","#div5")
+                return (getValue("div4"));
+
+            } else if (checkCondition("div9","div7","div8") ){
+                changeToGreen("#div9","#div7","#div8")
+                return (getValue("div7"));
+
+            }else if (checkCondition("div2","div5","div8") ){
+                changeToGreen("#div2","#div5","#div8")
+                return (getValue("div2"));
+
+            }else if (checkCondition("div3","div6","div9")){
+                changeToGreen("#div3","#div6","#div9")
+                return (getValue("div3"));
+            }
+            else{
+                return false;
+            }
+        }
+        function changeToGreen(val1, val2, val3){
+            document.querySelector(val1).style.color="green";
+            document.querySelector(val2).style.color="green";
+            document.querySelector(val3).style.color="green";
+            
+        };
+        function resetColor(el){
+            
+            document.querySelector(el).style.color="white";
+            
+        };
+        
+        function checkCondition(div1,div2,div3){
+            if (getValue(div1) != ""&& getValue(div2) != "" && getValue(div3) != "" &&
+             getValue(div1) == getValue(div2) && 
+             getValue(div2) == getValue(div3))
+            {
+                return true;
+            }
+        };
+        function reset(){
+            for (var i=1; i<10; i++){
+                var value = "div"+i;
+                
+                document.getElementById(value).innerHTML= "";
+                resetColor("#"+value);
+            }
+            document.getElementById("result").innerHTML= "Game Reseted";
+            count = 1;
+            
+        };
+        function getValue(div_value){
+            var div_val = document.getElementById(div_value).innerHTML;
+            return div_val;
+        }
+
+        function changeBackGround(){
+            //document.querySelector("body").style.background-image = url("https://i.gifer.com/7h7F.gif");
+        }
+        
+    </script>
+
+</head>
+<body>
+<div class="header">
+<h1> Tic Tac Toe GAME</h1>
+</div>
+
+<div class= "game_section">
+    <div class="point_section">
+        <div><p>X point = <span id="X_point">0</span></p></div>
+        <div><p>O point = <span id="O_point">0</span></p></div>
+        <div class= "result_view">
+            <p id="result"> </p>
+        </div>
+        <div> <button onclick="reset()">RESET</button> </div>
+        <div> <button onclick="changeBackGround"> Change Back </button></div>
+    </div>
+
+    <div class= "game_area">
+        <div class= "game_box">
+            <div id="div1" onclick="fill(this)"> </div> <div id="div2" onclick= "fill(this)"></div> <div id="div3" onclick= "fill(this)"></div>
+            <div id="div4" onclick= "fill(this)"></div> <div id="div5" onclick= "fill(this)"></div> <div id="div6" onclick= "fill(this)"> </div>
+            <div id="div7" onclick= "fill(this)"></div> <div id="div8" onclick= "fill(this)"></div> <div id="div9" onclick= "fill(this)"> </div>
+        </div>
+    </div>
+    
+</div>
+
+</body>
+</html>
