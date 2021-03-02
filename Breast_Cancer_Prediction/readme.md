@@ -1,0 +1,4 @@
+- Breast Cancer Prediction:
+-- Created an API that predicts whether the cancer is Benign or Melignent.
+-- trained over 600 datas of benign and melignent cancer attributes. undependent variables are such as radius, texture, perimeter, area, smoothness, etc.
+-- target variables are Benign as 1 and Melignent as 0.
