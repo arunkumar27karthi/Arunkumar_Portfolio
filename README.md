@@ -27,11 +27,12 @@
 - This system integrated into an API using Django for easy access.
 - This system can also be useful for office attendance system with some improvements.
 
-## project 4: Mail prediction project (Spam vs Ham):
+## project 4: <a href="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/tree/master/mail_prediction">Mail prediction project (Spam vs Ham):</a>
 - Created a tool that predicts whether the given input mail is spam or ham. 
 - To achieve this Natural Language Processing and support vector machine method used. 
 - This model has trained over 6000 ham and spam emails with an accuracy score of 97.5%.
-## project 5: Breast Cancer Prediction (Benign vs Melignent):
+- 
+## project 5: <a href="https://github.com/arunkumar27karthi/Arunkumar_Portfolio/tree/master/Breast_Cancer_Prediction"> Breast Cancer Prediction (Benign vs Melignent):</a>
 - Created an API that predicts whether the cancer is Benign or Melignent.
 - trained over 600 datas of benign and melignent cancer attributes. undependent variables are such as radius, texture, perimeter, area, smoothness, etc.
 - target variables are Benign as 1 and Melignent as 0.
