@@ -1,4 +1,4 @@
-## <a href="https://arunkumar-ece.herokuapp.com/" target="_blank">my website link:<a>
+## <a href="https://arunkumar-ece.herokuapp.com/" target="_blank" rel="noopener">my website link:<a>
 - <a href="https://arunkumar-ece.herokuapp.com/" target="_blank"> click here to visit my website <a>
 
 ##  Blogger.com link:
