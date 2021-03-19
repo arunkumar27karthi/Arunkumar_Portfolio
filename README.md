@@ -1,11 +1,11 @@
-## <a href="https://arunkumar-ece.herokuapp.com/" target="_blank" rel="noopener">my website link:<a>
-- <a href="https://arunkumar-ece.herokuapp.com/" target="_blank"> click here to visit my website <a>
+## <a href="https://arunkumar-ece.herokuapp.com/" >my website link:<a>
+- <a href="https://arunkumar-ece.herokuapp.com/" > click here to visit my website <a>
 
 ##  Blogger.com link:
-- <a href="https://aruntechnowizard.blogspot.com/" target="_blank"> Arun Techno Wizard <a>
+- <a href="https://aruntechnowizard.blogspot.com/" > Arun Techno Wizard <a>
   
 ##  heroku apps link:
-- <a href="https://arunkumar27karthi.herokuapp.com/" target="_blank"> To visit results of my works click here.. <a>
+- <a href="https://arunkumar27karthi.herokuapp.com/" > To visit results of my works click here.. <a>
   
 ## Project 1: Zero Defect Manufacturing At Suppliers (Smart Six Sigma): Project Overview
 - Created a tool that identifies the defective products (ball bearings) in industries using convolutional neural network trained model through the camera vision instead of eye vision. 
